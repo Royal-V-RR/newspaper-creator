@@ -1,1 +1,1 @@
-websi whttps://royal-v-rr.github.io/newspaper-creator/
+websi w https://royal-v-rr.github.io/newspaper-creator/
